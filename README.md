@@ -1,79 +1,58 @@
 <h1 align="center">Hi 👋, I'm Irin Ann Shaji</h1>
 <h3 align="center">AI Engineering Student | Developer | Tech Explorer 🚀</h3>
 
+<p align="center">
+  <a href="https://vercel.com/irinannshaji445" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-irinannshaji445-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 👩‍💻 About Me
 - 🎓 AI Engineering Student  
 - 💻 Interested in **AI, Web Development, and App Development**
-- 🌱 Currently learning and building projects with modern tools
-- ⚡ Love exploring new technologies and improving skills
+- 🌱 Currently learning and building projects with modern tools  
+- ⚡ Love exploring new technologies and improving skills  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ⚙️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>Java
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><br>PHP
-    </td>
-  </tr>
+### 👩‍💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
 
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br>C
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/><br>CSS
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/><br>Flutter
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br>MySQL
-    </td>
-  </tr>
+### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/><br>Firebase
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/><br>GitHub
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40"/><br>Vercel
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/><br>VS Code
-    </td>
-  </tr>
+### 📱 App Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+</p>
 
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40"/><br>Android Studio
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br>HTML
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/><br>Open Source
-    </td>
-  </tr>
-</table>
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 ---
 
