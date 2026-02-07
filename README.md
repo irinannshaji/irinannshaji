@@ -20,13 +20,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,php,c,css,flutter,mysql,firebase,github,vercel,vscode,androidstudio" />
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=irinannshaji&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinannshaji&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
