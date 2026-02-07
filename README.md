@@ -45,7 +45,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=irinannshaji&theme=tokyo-night" />
 </p>
----
+
+___
 
 ## 🌟 3D Contribution Graph
 <p align="center">
