@@ -11,41 +11,60 @@
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
+### 👩‍💻 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55"/>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55"/>
 </p>
 
+---
+
+### 🎨 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/>
 </p>
 
+---
+
+### 📱 App Development
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="55"/>
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="55"/>
+</p>
+
+---
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="55"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=irinannshaji445&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinannshji445&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=irinannshaji&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinannshaji&layout=compact&theme=tokyonight" />
 </p>
 
 ---
