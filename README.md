@@ -48,9 +48,10 @@
 
 ___
 
-## 🌟 3D Contribution Graph
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github.com/irinannshaji/irinannshaji/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/irinannshaji/irinannshaji/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
