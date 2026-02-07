@@ -45,6 +45,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=irinannshaji&theme=tokyo-night" />
 </p>
+---
+## 🌟 3D Contribution Graph
+<p align="center">
+  <img src="https://github.com/irinannshaji/irinannshaji/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
 ---
 ⭐ Thanks for visiting my profile!
