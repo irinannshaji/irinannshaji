@@ -4,10 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=irinannshaji&label=Profile%20views&color=0e75b6&style=flat" alt="irinannshaji" />
 </p>
-
-
-![Portfolio](https://img.shields.io/badge/Developer-Portfolio-0A66C2?style=for-the-badge&logo=about.me)](https://your-portfolio-link.com)
-
+ [![Portfolio](https://img.shields.io/badge/Developer-Portfolio-0A66C2?style=for-the-badge&logo=about.me)](https://your-portfolio-link.com)
 
 ---
 
@@ -22,7 +19,7 @@
 
 # 🌐 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://github.com/irinannshaji">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -38,15 +35,13 @@
 
 </p>
 
-
-
 ---
 
 # 🛠 Tech Stack
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,c,php,css,html" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,c,php,css,html,ts,js" />
 </p>
 
 ### Frameworks & Tools
@@ -93,14 +88,11 @@
 
 ---
 
-
-## 🐍 Contribution Snake
+## 🐍 Matrix Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/irinannshaji/irinannshaji/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/irinannshaji/irinannshaji/output/github-contribution-grid-snake.svg" />
 </p>
-
-
 
 ---
 
