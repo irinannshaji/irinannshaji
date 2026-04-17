@@ -6,7 +6,8 @@
 </p>
 
 
-![Portfolio]((https://img.shields.io/badge/Developer-Portfolio-0A66C2?style=for-the-badge&logo=about.me)](https://https://my-portfolio-delta-blue-el1zafhuob.vercel.app.com)
+![Portfolio](https://img.shields.io/badge/Developer-Portfolio-0A66C2?style=for-the-badge&logo=about.me)](https://your-portfolio-link.com)
+
 
 ---
 
