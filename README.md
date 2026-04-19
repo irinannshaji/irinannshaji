@@ -10,8 +10,8 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning **Full Stack Development**
-- 💡 Interested in **Software Development & Open Source**
+- 🌱 Currently learning *Full Stack Development*
+- 💡 Interested in *Software Development & Open Source*
 - 🚀 Exploring new technologies and frameworks
 - ⚡ Fun fact: I enjoy building useful and creative projects
 
