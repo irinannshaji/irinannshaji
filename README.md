@@ -7,7 +7,7 @@
 <p align="center">
 </p>
 
- [![Portfolio](https://img.shields.io/badge/Developer-Portfolio-0A66C2?style=for-the-badge&logo=about.me)](https://your-portfolio-link.com)
+ [![Portfolio](https://img.shields.io/badge/Developer-Portfolio-0A66C2?style=for-the-badge&logo=about.me)])
 
 ---
 
