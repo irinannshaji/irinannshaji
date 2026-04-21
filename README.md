@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irinannshaji&label=Profile%20views&color=0e75b6&style=flat" alt="irinannshaji" />
+  <img src="https://komarev.com/ghpvc/?username=irinannshaji&label=Profile%20views&color=0e75b6&style=flat" alt="irin ann shaji" />
 </p>
 <p align="center">
 </p>
