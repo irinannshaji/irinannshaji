@@ -1,104 +1,130 @@
-<h1 align="center">Hi 👋, I'm Irin Ann Shaji</h1>
-<h3 align="center">Passionate Developer | Tech Enthusiast | Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irinannshaji&label=Profile%20views&color=0e75b6&style=flat" alt="irinannshaji" />
-</p>
-<p align="center">
-</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif" />
 
- [![Portfolio](https://img.shields.io/badge/Developer-Portfolio-0A66C2?style=for-the-badge&logo=about.me)])
+  <h1>Hi, I'm Irin Ann Shaji 👋</h1>
+  <p><i>Developer · Lifelong Learner · Builder of meaningful things</i></p>
+
+  <a href="https://github.com/irinannshaji">
+    <img src="https://komarev.com/ghpvc/?username=irinannshaji&color=brightgreen&style=flat-square" alt="profile views" />
+  </a>
+
+</div>
+
+<br>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning *Full Stack Development*
-- 💡 Interested in *Software Development & Open Source*
-- 🚀 Exploring new technologies and frameworks
-- ⚡ Fun fact: I enjoy building useful and creative projects
+- 🌍 Based on Earth, building for the web
+- 💻 Passionate about crafting clean, meaningful products
+- 🎯 Currently focused on **Web Development** with React, Next.js & TypeScript
+- 🌱 Always exploring new tools, patterns and best practices
+- 🤝 Open to collaborations, open source and new opportunities
+- ☕ I debug with coffee and curiosity
+- ⚡ Fun fact: I love turning ideas into reality
+
+<br>
 
 ---
 
-# 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="center">
+**Languages**
 
-<a href="https://github.com/irinannshaji">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<a href="https://www.linkedin.com/in/irin-ann-shaji-758a0132b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Frameworks & Libraries**
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-</p>
+**Databases**
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 🛠 Tech Stack
+**Tools & Platforms**
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,c,php,css,html,ts,js" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Frameworks & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=spring,flutter,docker,git,github" />
-</p>
-
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+<br>
 
 ---
 
-# 📊 GitHub Stats
+## 📚 Currently Learning
 
-<p align="center">
+- 🔷 **Next.js 15** — App Router, Server Components & Server Actions
+- 🐍 **Machine Learning** — PyTorch & Neural Networks fundamentals
+- 🐳 **Docker & Kubernetes** — Containers, orchestration & DevOps
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=irinannshaji&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinannshaji&layout=compact&theme=tokyonight"/>
-
-</p>
+<br>
 
 ---
 
-# 🔥 GitHub Streak
+## 🗺️ Next Learning Goals
 
-<p align="center">
+- 📐 **System Design** — Scalable architecture & design patterns
+- 🔗 **GraphQL** — Modern API design with Apollo
+- ☁️ **AWS** — Cloud infrastructure & serverless (Lambda, S3, EC2)
+- 🔐 **Cybersecurity** — Web security fundamentals & OWASP Top 10
 
-<img src="https://streak-stats.demolab.com?user=irinannshaji&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irinannshaji&theme=tokyo-night"/>
-
-</p>
+<br>
 
 ---
 
-## 🐍 Matrix Contribution Snake
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/irinannshaji/irinannshaji/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=irinannshaji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irinannshaji&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irinannshaji&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=irinannshaji&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+<br>
 
 ---
 
-<p align="center">
-✨ Thanks for visiting my profile ✨
-</p>
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irinannshaji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@irinannshaji.dev)
+
+</div>
+
+<br>
+
+<div align="center">
+  <i>✨ Thanks for stopping by — let's build something great together! ✨</i>
+</div>
