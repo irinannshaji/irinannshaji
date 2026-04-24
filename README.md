@@ -1,31 +1,31 @@
+
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
 
-  <h1>Hi, I'm Irin Ann Shaji 👋</h1>
-  <p><i>Developer · Lifelong Learner · Builder of meaningful things</i></p>
+<h1>Hi, I'm Irin Ann Shaji 👋</h1>
 
-  <a href="https://github.com/irinannshaji">
-    <img src="https://komarev.com/ghpvc/?username=irinannshaji&color=brightgreen&style=flat-square" alt="profile views" />
-  </a>
+<p>
+  <b>💻 Developer • 🚀 Builder • 🌱 Lifelong Learner</b>
+</p>
+
+<p>
+  Crafting clean, scalable & meaningful digital experiences
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=irinannshaji&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
-<br>
-
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-- 🌍 Based on Earth, building for the web
-- 💻 Passionate about crafting clean, meaningful products
-- 🎯 Currently focused on **Web Development** with React, Next.js & TypeScript
-- 🌱 Always exploring new tools, patterns and best practices
-- 🤝 Open to collaborations, open source and new opportunities
-- ☕ I debug with coffee and curiosity
-- ⚡ Fun fact: I love turning ideas into reality
-
-<br>
+```yaml
+Name: Irin Ann Shaji
+Role: Full Stack Developer (in progress)
+Focus: Web Development & AI
+Location: India 🌍
 
 ---
 
