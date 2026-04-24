@@ -1,31 +1,31 @@
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif" />
 
-<h1>Hi, I'm Irin Ann Shaji 👋</h1>
+  <h1>Hi, I'm Irin Ann Shaji 👋</h1>
+  <p><i>Developer · Lifelong Learner · Builder of meaningful things</i></p>
 
-<p>
-  <b>💻 Developer • 🚀 Builder • 🌱 Lifelong Learner</b>
-</p>
-
-<p>
-  Crafting clean, scalable & meaningful digital experiences
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=irinannshaji&label=Profile+Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/irinannshaji">
+    <img src="https://komarev.com/ghpvc/?username=irinannshaji&color=brightgreen&style=flat-square" alt="profile views" />
+  </a>
 
 </div>
 
+<br>
+
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-```yaml
-Name: Irin Ann Shaji
-Role: Full Stack Developer (in progress)
-Focus: Web Development & AI
-Location: India 🌍
+- 🌍 Based on Earth, building for the web
+- 💻 Passionate about crafting clean, meaningful products
+- 🎯 Currently focused on **Web Development** with React, Next.js & TypeScript
+- 🌱 Always exploring new tools, patterns and best practices
+- 🤝 Open to collaborations, open source and new opportunities
+- ☕ I debug with coffee and curiosity
+- ⚡ Fun fact: I love turning ideas into reality
+
+<br>
 
 ---
 
@@ -111,9 +111,9 @@ Location: India 🌍
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irinannshaji)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irin-ann-shaji-758a0132b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](irinannshaji445@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@irinannshaji.dev)
 
 </div>
 
