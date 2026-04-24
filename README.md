@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="coding gif" />
 
-  <h1>Hi, I'm Irin  👋</h1>
+  <h1>Hi, I'm Irin Ann Shaji 👋</h1>
   <p><i>Developer · Lifelong Learner · Builder of meaningful things</i></p>
 
   <a href="https://github.com/irinannshaji">
