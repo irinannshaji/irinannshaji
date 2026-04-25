@@ -102,6 +102,11 @@
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irinannshaji&bg_color=000000&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=false&border_color=00FF41" />
+  
+</div>
+
 
 <br>
 
