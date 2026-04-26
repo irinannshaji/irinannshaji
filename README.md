@@ -15,7 +15,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About Mee
 
 - 🌍 Based on Earth, building for the web
 - 💻 Passionate about crafting clean, meaningful products
