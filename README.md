@@ -1,5 +1,3 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a2e,80:16213e,100:0f3460&height=220&section=header&text=Alphonsa%20Sooter&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Student%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20DevOps%20Explorer&descSize=17&descAlignY=60&descColor=94a3b8&animation=fadeIn" width="100%" />
 
 <div align="center">
 
