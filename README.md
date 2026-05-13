@@ -1,3 +1,5 @@
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b1c32,35:602749,70:a0536d,100:d17d98&height=220&section=header&text=Irin%20Ann%20Shaji&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Student%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20DevOps%20Explorer&descSize=17&descAlignY=60&descColor=fce7f3&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -277,4 +279,4 @@ fun_fact  : "I debug with console.log and I'm not ashamed 😄"
 </div>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:16213e,80:1a1a2e,100:0a0a0a&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d17d98,50:a0536d,100:3b1c32&height=80&section=footer" width="100%" />
