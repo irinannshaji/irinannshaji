@@ -3,8 +3,6 @@
 
 <div align="center">
 
-<h3>Always Learning | Building Real Projects</h3>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Student+%E2%80%A2+Full-Stack+Developer+%E2%80%A2+DevOps+Explorer;Building+real+projects+one+commit+at+a+time+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
