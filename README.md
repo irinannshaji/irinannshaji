@@ -1,4 +1,4 @@
-<<img src="https://capsule-render.vercel.app/api?type=rect&color=0:20002c,50:cbb4d4,100:20002c&height=280&section=header&text=Irin%20Ann%20Shaji&fontSize=60&fontColor=ffffff&fontAlignY=48&desc=✦%20Building%20Modern%20Experiences%20✦&descAlignY=68&descColor=f5f3ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:20002c,50:cbb4d4,100:20002c&height=280&section=header&text=Irin%20Ann%20Shaji&fontSize=60&fontColor=ffffff&fontAlignY=48&desc=✦%20Building%20Modern%20Experiences%20✦&descAlignY=68&descColor=f5f3ff&animation=fadeIn" />
 
  <div align="center">
  
@@ -125,5 +125,3 @@
   <i>✨ Thanks for stopping by — let's build something great together! ✨</i>
 </div>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d17d98,50:a0536d,100:3b1c32&height=80&section=footer" width="100%" />
